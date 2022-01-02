@@ -1,0 +1,58 @@
+{
+  "uid" : "2d262b893fedb3d3",
+  "name" : "Then user perform Login",
+  "fullName" : "Perform Login: Login to Application.Then user perform Login",
+  "historyId" : "dc1b54a8a18a5419dd523125d6302d26",
+  "time" : {
+    "start" : 1633530769410,
+    "stop" : 1633530769411,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Perform Login: Login to Application"
+  }, {
+    "name" : "testClass",
+    "value" : "Perform Login: Login to Application"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then user perform Login"
+  }, {
+    "name" : "package",
+    "value" : "Perform Login: Login to Application"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-94.0.4606.71"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2d262b893fedb3d3.json",
+  "parameterValues" : [ "chrome-94.0.4606.71" ]
+}

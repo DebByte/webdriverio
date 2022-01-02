@@ -1,0 +1,31 @@
+[ {
+  "uid" : "7efddecdc61fb27d",
+  "name" : "",
+  "time" : {
+    "start" : 1633530769411,
+    "stop" : 1633530769411,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9eff6d6d4f83b037",
+  "name" : "Given user open the URL",
+  "time" : {
+    "start" : 1633530758117,
+    "stop" : 1633530769410,
+    "duration" : 11293
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "2d262b893fedb3d3",
+  "name" : "Then user perform Login",
+  "time" : {
+    "start" : 1633530769410,
+    "stop" : 1633530769411,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+} ]

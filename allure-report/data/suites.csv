@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"failed","Wed Oct 06 20:02:38 IST 2021","Wed Oct 06 20:02:49 IST 2021","11293","","Perform Login: Login to Application","","Perform Login: Login to Application","Given user open the URL","Given user open the URL",""
+"skipped","Wed Oct 06 20:02:49 IST 2021","Wed Oct 06 20:02:49 IST 2021","1","","Perform Login: Login to Application","","Perform Login: Login to Application","Then user perform Login","Then user perform Login",""
+"passed","Wed Oct 06 20:02:49 IST 2021","Wed Oct 06 20:02:49 IST 2021","0","","Perform Login: Login to Application","","Perform Login: Login to Application","","",""

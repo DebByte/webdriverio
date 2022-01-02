@@ -1,0 +1,44 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "children" : [ {
+    "name" : "Given user open the URL",
+    "uid" : "9eff6d6d4f83b037",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1633530758117,
+      "stop" : 1633530769410,
+      "duration" : 11293
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-94.0.4606.71" ]
+  }, {
+    "name" : "Then user perform Login",
+    "uid" : "2d262b893fedb3d3",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1633530769410,
+      "stop" : 1633530769411,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-94.0.4606.71" ]
+  }, {
+    "name" : "",
+    "uid" : "7efddecdc61fb27d",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1633530769411,
+      "stop" : 1633530769411,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-94.0.4606.71" ]
+  } ],
+  "name" : "behaviors"
+}

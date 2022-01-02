@@ -1,0 +1,26 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "Error: Expect window to have title containing",
+      "children" : [ {
+        "name" : "Given user open the URL",
+        "uid" : "9eff6d6d4f83b037",
+        "parentUid" : "f660baa5531b02c4925ba21d0346e910",
+        "status" : "failed",
+        "time" : {
+          "start" : 1633530758117,
+          "stop" : 1633530769410,
+          "duration" : 11293
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chrome-94.0.4606.71" ]
+      } ],
+      "uid" : "f660baa5531b02c4925ba21d0346e910"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ],
+  "name" : "categories"
+}

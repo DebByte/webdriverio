@@ -1,0 +1,48 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "children" : [ {
+    "name" : "Perform Login: Login to Application",
+    "children" : [ {
+      "name" : "Given user open the URL",
+      "uid" : "9eff6d6d4f83b037",
+      "parentUid" : "768903375e00653ab0e251170c292436",
+      "status" : "failed",
+      "time" : {
+        "start" : 1633530758117,
+        "stop" : 1633530769410,
+        "duration" : 11293
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-94.0.4606.71" ]
+    }, {
+      "name" : "Then user perform Login",
+      "uid" : "2d262b893fedb3d3",
+      "parentUid" : "768903375e00653ab0e251170c292436",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1633530769410,
+        "stop" : 1633530769411,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-94.0.4606.71" ]
+    }, {
+      "name" : "",
+      "uid" : "7efddecdc61fb27d",
+      "parentUid" : "768903375e00653ab0e251170c292436",
+      "status" : "passed",
+      "time" : {
+        "start" : 1633530769411,
+        "stop" : 1633530769411,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-94.0.4606.71" ]
+    } ],
+    "uid" : "768903375e00653ab0e251170c292436"
+  } ],
+  "name" : "suites"
+}
